@@ -1,5 +1,6 @@
 # Duck Season
 
+YouTuve video: https://youtu.be/p2yBIqEqTJ0
 
 Duck season is a game of bird hunting, on the screen the ducks appear and the player has to hover over the duck to shoot and hunt the duck. There are two rounds in the game, menu and pause scene. There is no way to win, the game is just about making the best score.
 
